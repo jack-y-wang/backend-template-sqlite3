@@ -1,4 +1,4 @@
-from db import db, User
+from model import db, User
 
 # creates the user with the corresponding arguments if a User
 # with either the email or username doesn't already exists

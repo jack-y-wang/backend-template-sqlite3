@@ -2,7 +2,7 @@ import json
 import os
 import datetime
 
-from db import db
+from model import db
 import dao
 from utils import *
 
