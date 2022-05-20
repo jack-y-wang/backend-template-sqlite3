@@ -18,15 +18,6 @@ python3 -m venv venv
 pip install -r requirements.txt
 ```
 
-## Updating the Database
-
-To update the database with changes you make, run the following:
-
-```bash
-python manage.py db migrate
-python manage.py db upgrade
-```
-
 ## Running the Server
 
 To run the server, run:
