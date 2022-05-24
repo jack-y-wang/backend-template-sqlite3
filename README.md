@@ -23,7 +23,7 @@ pip install -r requirements.txt
 To run the server, run:
 
 ```bash
-python3 src/run.py
+python3 app.py
 ```
 
 The hello-world endpoint can be found at: http://127.0.0.1:5000/
